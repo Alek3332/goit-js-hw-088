@@ -5,7 +5,7 @@
   "homepage": "https://Alek3332.github.io/goit-js-hw-088",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-088/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-/"
   },
   "repository": {
     "type": "git",
